@@ -1,0 +1,9 @@
+// Fix the cout syntax
+#include <iostream>
+using namespace std;
+
+int main() {
+    int age = 25;
+    cout >> "Age: " >> age >> endl;
+    return 0;
+}
