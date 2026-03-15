@@ -5,6 +5,7 @@ using namespace std;
 int main() {
     int *ptr = new int(42);
     delete ptr;
-    cout << "Value: " << *ptr << endl;
+    ptr = nullptr;
+    cout << "Value: " << ptr << endl;
     return 0;
 }
