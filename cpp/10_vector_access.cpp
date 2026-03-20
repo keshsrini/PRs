@@ -5,6 +5,6 @@ using namespace std;
 
 int main() {
     vector<int> vec = {1, 2, 3};
-    cout << vec[5] << endl;
+    cout << vec[2] << endl;
     return 0;
 }
