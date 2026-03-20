@@ -1,5 +1,6 @@
 // Fix the missing header
 #include <iostream>
+#include <string>
 using namespace std;
 
 int main() {

@@ -4,6 +4,6 @@ using namespace std;
 
 int main() {
     int age = 25;
-    cout >> "Age: " >> age >> endl;
+    cout << "Age: " << age << endl;
     return 0;
 }
